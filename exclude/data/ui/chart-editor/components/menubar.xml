@@ -123,6 +123,7 @@
     <menu-checkbox id="menubarItemToggleToolboxEventData" text="Events" />
     <menu-checkbox id="menubarItemToggleToolboxFreeplay" text="Freeplay Properties" />
     <menu-checkbox id="menubarItemToggleToolboxPlaytestProperties" text="Playtest Properties" />
+    <menu-checkbox id="menubarItemToggleToolboxScriptEditor" text="Script Editor"/>
   </menu>
   <menu text="Help">
     <menu-item id="menubarItemWelcomeDialog" text="Welcome Dialog" />

@@ -1,0 +1,10 @@
+<collapsible-dialog id="toolboxScriptEditor" title="Script Editor (TAB not working)" width="700" height="480">
+  <vbox width="100%" height="100%">
+    <textarea id="scriptText" width="100%" height="100%" style="font-size:12px;" text="" />
+  </vbox>
+  <hbox>
+    <button id="savebtn" text="Save" />
+    <button id="readbtn" text="Read" />
+    <button text="Parse" />
+  </hbox>
+</collapsible-dialog>
